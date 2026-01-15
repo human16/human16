@@ -8,7 +8,7 @@ My name is Ben, I'm a Computer Science & Mathematics major @ Rutgers University 
 
 ## What I'm Working On 🧑‍💻
 
-I'm currently working on a project creating my own fitness force measuring device for climbing. This project incorporates Bluetooth Low Energy (BLE) technology with a Raspberry Pi attached to the force sensing device, which communicates with a companion phone app written in Kotlin and KMP.
+I'm currently working on a project creating my own fitness force measuring device for climbing. [This project](https://github.com/human16/Pulling_project) incorporates Bluetooth Low Energy (BLE) technology with a Raspberry Pi attached to the force sensing device, which communicates with a companion phone app written in Kotlin and KMP.
 
 ## Reach me 🤝
 [LinkedIn](www.linkedin.com/in/ben-yavin), [Email](mailto:by240@scarletmail.rutgers.edu)
