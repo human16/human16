@@ -4,7 +4,7 @@ My name is Ben, I'm a Computer Science & Mathematics major @ Rutgers University 
 
 ## Main Skills 💪
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,c,cpp,cs,cmake,figma,flutter,git,github,html,css,java,js,kotlin,latex,linux,ocaml,powershell,py,raspberrypi,vim,vscode,windows&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,java,latex,linux,powershell,py,raspberrypi,vscode&perline=12)](https://skillicons.dev)
 
 ## What I'm Working On 🧑‍💻
 
